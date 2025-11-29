@@ -90,29 +90,7 @@ Rscript scripts/04_visualization/01_make_figures.R
 
 See [requirements.txt](requirements.txt) for complete list.
 
-## 📄 Citation
 
-If you use this pipeline in your research, please cite:
-```bibtex
-@software{dehestani2025foundin,
-  author = {Dehestani, Mo},
-  title = {FOUNDIN-PD: Multiomics Analysis Pipeline},
-  year = {2025},
-  url = {https://github.com/mode1990/FOUNDIN-PD-analysis}
-}
-```
-
-## 🤝 Contributing
-
-Contributions are welcome! Please:
-1. Fork the repository
-2. Create a feature branch
-3. Submit a pull request
-
-## 📧 Contact
-
-- **Issues**: [GitHub Issues](https://github.com/mode1990/FOUNDIN-PD-analysis/issues)
-- **Email**: your.email@institution.edu
 
 ## 📄 License
 
@@ -121,4 +99,4 @@ This project is licensed under the MIT License - see [LICENSE](LICENSE) file.
 ---
 
 **Author**: Mo Dehestani  
-**Last Updated**: March 2025
+**Last Updated**: Nov 2025
