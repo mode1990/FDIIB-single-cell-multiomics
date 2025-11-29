@@ -1,0 +1,11 @@
+name: foundin-pd
+channels:
+  - conda-forge
+  - bioconda
+  - defaults
+dependencies:
+  - python=3.9
+  - macs2=2.2.7
+  - numpy>=1.21.0
+  - scipy>=1.7.0
+  - pip>=21.0

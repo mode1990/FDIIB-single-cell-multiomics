@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "FOUNDIN-PD: Multiomics Analysis Pipeline"
+version: 1.0.0
+date-released: 2025-03-15
+authors:
+  - family-names: "Dehestani"
+    given-names: "Mo"
+    orcid: "https://orcid.org/0000-0000-0000-0000"
+repository-code: "https://github.com/mode1990/FOUNDIN-PD-analysis"
+url: "https://github.com/mode1990/FOUNDIN-PD-analysis"
+keywords:
+  - single-cell
+  - multiomics
+  - Parkinsons-disease
+  - scRNA-seq
+  - scATAC-seq
+  - dopaminergic-neurons
+license: MIT

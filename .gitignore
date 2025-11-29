@@ -1,0 +1,24 @@
+
+# Data files (too large for git)
+data/raw/
+data/processed/
+*.h5
+*.h5ad
+*.h5seurat
+
+# Results (generated files)
+results/
+!results/.gitkeep
+
+# R data files
+*.rds
+*.RData
+*.Rhistory
+
+# Python
+__pycache__/
+*.pyc
+
+# Keep structure files
+!data/README.md
+!docs/figures/.gitkeep
