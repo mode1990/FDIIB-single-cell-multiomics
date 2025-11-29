@@ -12,9 +12,4 @@ Expected structure for each sample in `raw/`:
 ## Download Data
 
 Data is available from:
-- GEO: [GSEXXXXXX](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSEXXXXXX)
-- Project website: [FOUNDIN-PD](https://example.com)
-
-## Sample Information
-
-See `metadata/sample_info.csv` for complete sample metadata.
+- Project website: https://www.foundinpd.org/#Foundinpd
