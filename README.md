@@ -70,11 +70,7 @@ Rscript scripts/04_visualization/01_make_figures.R
 ```
 
 ## 📂 Repository Structure
-## 📖 Documentation
 
-- **[Installation Guide](docs/installation.md)** - Detailed setup instructions
-- **[Tutorial](docs/tutorial.md)** - Step-by-step walkthrough
-- **[Troubleshooting](docs/troubleshooting.md)** - Common issues and solutions
 
 ## 📦 Dependencies
 
