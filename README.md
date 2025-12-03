@@ -91,12 +91,5 @@ Rscript scripts/04_visualization/01_make_figures.R
 See [requirements.txt](requirements.txt) for complete list.
 
 
-
-## 📄 License
-
-This project is licensed under the MIT License - see [LICENSE](LICENSE) file.
-
----
-
 **Author**: Mo Dehestani  
 **Last Updated**: Nov 2025
